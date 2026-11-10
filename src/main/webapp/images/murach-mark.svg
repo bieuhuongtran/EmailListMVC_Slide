@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="126" viewBox="0 0 134 126" role="img" aria-label="Murach">
+  <rect width="134" height="126" fill="#c50000"/>
+  <rect x="6" y="7" width="122" height="112" fill="none" stroke="#e42727" stroke-width="1.5"/>
+  <g fill="#fff" transform="translate(43 20)">
+    <path d="M0 0 L12 5 L12 45 L0 40Z" />
+    <path d="M15 5 L27 10 L27 51 L15 46Z" />
+    <path d="M30 10 L42 14 L42 55 L30 51Z" />
+    <path d="M45 14 L54 18 L54 58 L45 55Z" />
+  </g>
+  <text x="67" y="97" fill="#fff" font-family="Georgia, 'Times New Roman', serif"
+        font-size="23" font-variant="small-caps" text-anchor="middle">Murach</text>
+</svg>
