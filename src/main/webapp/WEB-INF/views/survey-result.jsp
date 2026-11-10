@@ -23,7 +23,7 @@
         <dt>Email announcements</dt><dd>${specialOffers ? 'Yes' : 'No'}</dd>
         <dt>Contact preference</dt><dd>${contactDisplay}</dd>
     </dl>
-    <p><a class="return-link" href="${pageContext.request.contextPath}/survey">Return to Survey</a></p>
+    <p><a class="return-link" href="${pageContext.request.contextPath}/week2">Return to Survey</a></p>
     <p><a href="${pageContext.request.contextPath}/index.html">Back to Email List</a></p>
 </main>
 </body>

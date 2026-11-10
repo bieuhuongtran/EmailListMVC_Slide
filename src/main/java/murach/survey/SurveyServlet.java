@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /** New survey module: original EmailListServlet and web.xml stay untouched. */
-@WebServlet(name = "SurveyServlet", urlPatterns = {"/survey"})
+@WebServlet(name = "SurveyServlet", urlPatterns = {"/survey", "/week2"})
 public class SurveyServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
     private static final Pattern EMAIL =

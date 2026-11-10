@@ -15,7 +15,7 @@
     <h1>Survey</h1>
     <p class="intro">If you have a moment, we'd appreciate if you would fill out this<br class="wide-only"> survey.</p>
 
-    <form action="${pageContext.request.contextPath}/survey" method="post" accept-charset="UTF-8">
+    <form action="${pageContext.request.contextPath}/week2" method="post" accept-charset="UTF-8">
         <p class="error-message" role="alert" ${empty errorMessage ? 'hidden' : ''}>${errorMessage}</p>
 
         <fieldset class="information-section">
